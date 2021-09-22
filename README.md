@@ -17,4 +17,5 @@ With the dataset we created, we analysed *what* and *who* is present in these ca
 
  We were able to explore Duke's history in relation to its presidents, buildings, and early names; other topics to look into with regards to the university could be the historical ties to Methodism, the relationship with UNC, and the history of minority students (POC, women, international, etc.). Beyond the university, exploring major events such as the Civil War, slavery, and activism in North Carolina could be interesting as well.
  
-By: Biniam Garomsa and Heidi Smith
+
+Biniam Garomsa and Heidi Smith
