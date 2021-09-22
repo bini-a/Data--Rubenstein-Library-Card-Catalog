@@ -6,9 +6,6 @@
 
 With the dataset we created, we analysed *what* and *who* is present in these cards. We explored the demographics of the authors and items cataloged, as well as analysed how the information within the cards relates to the history of Duke University. We completed spatial frequency mapping on the level of the United States and of North Carolina counties, in addition to visualizing the international countries present in the cards. There is copious rich information present in the files, and our Data+ project is just the tip of the iceberg. We hope that future research teams will continue to dissect the card files and continue to gain insights into Duke's history.
 
-Biniam Garomsa
-
-Heidi Smith
 
  #### *Please read the Project Overview document for a comprehensive outline of the files*
 
@@ -19,3 +16,8 @@ Heidi Smith
  An avenue of analysis that we were, unfortunately, unable to explore was sentiment analysis surrounding various groups in the catalog (e.g., the southern gentleman, slaves, southern belles). We would reccomend that future researchers analyze how these and other groups are represented and discussed in the catalog. In addition, the identification of "outdated language" in the cards would prove helpful.
 
  We were able to explore Duke's history in relation to its presidents, buildings, and early names; other topics to look into with regards to the university could be the historical ties to Methodism, the relationship with UNC, and the history of minority students (POC, women, international, etc.). Beyond the university, exploring major events such as the Civil War, slavery, and activism in North Carolina could be interesting as well.
+ 
+ 
+Biniam Garomsa
+
+Heidi Smith
